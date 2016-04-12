@@ -1,0 +1,29 @@
+{
+  "name": "antiquark",
+  "version": "0.0.1",
+  "description": "Future home of something cool, come back soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/schwers/antiquark.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "es7",
+    "react",
+    "redux",
+    "koa",
+    "webpack",
+    "babel"
+  ],
+  "author": "Ryan Schwers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schwers/antiquark/issues"
+  },
+  "homepage": "https://github.com/schwers/antiquark#readme"
+}
